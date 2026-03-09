@@ -1,0 +1,36 @@
+{
+	
+	name: String,
+	price: Number,
+	brand: String,
+	desc: String,
+	
+	department: {
+		category: String,
+		sub-category: String
+	},
+	
+	
+	expDate: Date || null
+	mdfDate: Date
+	kg: Number || null
+	ml: Number || null
+	stock: NumberInt
+	
+	
+	nutritionalInfo:{
+		gPerPortion: Number, (Int)
+		kcal: Number,
+		nutrients: Array[{
+			grams:
+			name:
+		}],
+		dailyVal: Number (0-100)
+		
+	}
+	
+	img: Buffer,
+	barCode: Buffer
+	
+
+}

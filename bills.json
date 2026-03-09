@@ -1,0 +1,1568 @@
+[{
+        "folio": 1,
+        "dateEmission": "2025-02-03T10:12:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 24,
+                "IVA": 3.84,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": null,
+                "total": 48
+            }, {
+                "uniquePrice": 32,
+                "IVA": 5.12,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.2,
+                "discountAmount": null,
+                "total": 38.4
+            }
+        ],
+        "subTotal": 86.4,
+        "taxes": {
+            "IVA": 8.96,
+            "IEPS": null,
+            "Total": 8.96
+        },
+        "totalBill": 95.36
+    }, {
+        "folio": 2,
+        "dateEmission": "2025-02-03T12:05:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 18,
+                "IVA": 2.88,
+                "IEPS": null,
+                "amount": 3,
+                "kg": null,
+                "discountAmount": 1,
+                "total": 51
+            }, {
+                "uniquePrice": 210,
+                "IVA": 33.6,
+                "IEPS": 26.25,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 210
+            }
+        ],
+        "subTotal": 261,
+        "taxes": {
+            "IVA": 36.48,
+            "IEPS": 26.25,
+            "Total": 62.73
+        },
+        "totalBill": 323.73
+    }, {
+        "folio": 3,
+        "dateEmission": "2025-02-04T09:44:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 40,
+                "IVA": 6.4,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 3,
+                "total": 74
+            }, {
+                "uniquePrice": 120,
+                "IVA": 19.2,
+                "IEPS": 9.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 120
+            }
+        ],
+        "subTotal": 194,
+        "taxes": {
+            "IVA": 25.6,
+            "IEPS": 9.6,
+            "Total": 35.2
+        },
+        "totalBill": 229.2
+    }, {
+        "folio": 4,
+        "dateEmission": "2025-02-04T15:11:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 28,
+                "IVA": 4.48,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.5,
+                "discountAmount": null,
+                "total": 42
+            }, {
+                "uniquePrice": 65,
+                "IVA": 10.4,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 120
+            }
+        ],
+        "subTotal": 162,
+        "taxes": {
+            "IVA": 14.88,
+            "IEPS": null,
+            "Total": 14.88
+        },
+        "totalBill": 176.88
+    },
+    {
+        "folio": 5,
+        "dateEmission": "2025-02-05T11:20:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 15,
+                "IVA": 2.4,
+                "IEPS": null,
+                "amount": 5,
+                "kg": null,
+                "discountAmount": null,
+                "total": 75
+            }, {
+                "uniquePrice": 95,
+                "IVA": 15.2,
+                "IEPS": 7.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 95
+            }
+        ],
+        "subTotal": 170,
+        "taxes": {
+            "IVA": 17.6,
+            "IEPS": 7.6,
+            "Total": 25.2
+        },
+        "totalBill": 195.2
+    },
+    {
+        "folio": 6,
+        "dateEmission": "2025-02-05T13:05:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 36,
+                "IVA": 5.76,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.3,
+                "discountAmount": null,
+                "total": 46.8
+            }, {
+                "uniquePrice": 55,
+                "IVA": 8.8,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 100
+            }
+        ],
+        "subTotal": 146.8,
+        "taxes": {
+            "IVA": 14.56,
+            "IEPS": null,
+            "Total": 14.56
+        },
+        "totalBill": 161.36
+    },
+    {
+        "folio": 7,
+        "dateEmission": "2025-02-06T10:45:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 22,
+                "IVA": 3.52,
+                "IEPS": null,
+                "amount": 3,
+                "kg": null,
+                "discountAmount": null,
+                "total": 66
+            }, {
+                "uniquePrice": 135,
+                "IVA": 21.6,
+                "IEPS": 10.8,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 135
+            }
+        ],
+        "subTotal": 201,
+        "taxes": {
+            "IVA": 25.12,
+            "IEPS": 10.8,
+            "Total": 35.92
+        },
+        "totalBill": 236.92
+    },
+    {
+        "folio": 8,
+        "dateEmission": "2025-02-06T16:00:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 42,
+                "IVA": 6.72,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 2,
+                "total": 80
+            }, {
+                "uniquePrice": 30,
+                "IVA": 4.8,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.8,
+                "discountAmount": null,
+                "total": 54
+            }
+        ],
+        "subTotal": 134,
+        "taxes": {
+            "IVA": 11.52,
+            "IEPS": null,
+            "Total": 11.52
+        },
+        "totalBill": 145.52
+    },
+    {
+        "folio": 9,
+        "dateEmission": "2025-02-07T11:22:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 19,
+                "IVA": 3.04,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 76
+            }, {
+                "uniquePrice": 88,
+                "IVA": 14.08,
+                "IEPS": 7.04,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 88
+            }
+        ],
+        "subTotal": 164,
+        "taxes": {
+            "IVA": 17.12,
+            "IEPS": 7.04,
+            "Total": 24.16
+        },
+        "totalBill": 188.16
+    },
+    {
+        "folio": 10,
+        "dateEmission": "2025-02-07T18:40:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 26,
+                "IVA": 4.16,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.4,
+                "discountAmount": null,
+                "total": 36.4
+            }, {
+                "uniquePrice": 60,
+                "IVA": 9.6,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 110
+            }
+        ],
+        "subTotal": 146.4,
+        "taxes": {
+            "IVA": 13.76,
+            "IEPS": null,
+            "Total": 13.76
+        },
+        "totalBill": 160.16
+    }, {
+        "folio": 11,
+        "dateEmission": "2025-02-08T10:05:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 20,
+                "IVA": 3.2,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 80
+            }, {
+                "uniquePrice": 45,
+                "IVA": 7.2,
+                "IEPS": null,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 40
+            }
+        ],
+        "subTotal": 120,
+        "taxes": {
+            "IVA": 10.4,
+            "IEPS": null,
+            "Total": 10.4
+        },
+        "totalBill": 130.4
+    }, {
+        "folio": 12,
+        "dateEmission": "2025-02-08T12:14:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 34,
+                "IVA": 5.44,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 4,
+                "total": 60
+            }, {
+                "uniquePrice": 150,
+                "IVA": 24,
+                "IEPS": 12,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 150
+            }
+        ],
+        "subTotal": 210,
+        "taxes": {
+            "IVA": 29.44,
+            "IEPS": 12,
+            "Total": 41.44
+        },
+        "totalBill": 251.44
+    }, {
+        "folio": 13,
+        "dateEmission": "2025-02-09T09:30:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 27,
+                "IVA": 4.32,
+                "IEPS": null,
+                "amount": 3,
+                "kg": null,
+                "discountAmount": null,
+                "total": 81
+            }, {
+                "uniquePrice": 35,
+                "IVA": 5.6,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.6,
+                "discountAmount": null,
+                "total": 56
+            }
+        ],
+        "subTotal": 137,
+        "taxes": {
+            "IVA": 9.92,
+            "IEPS": null,
+            "Total": 9.92
+        },
+        "totalBill": 146.92
+    }, {
+        "folio": 14,
+        "dateEmission": "2025-02-09T13:18:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 52,
+                "IVA": 8.32,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 2,
+                "total": 100
+            }, {
+                "uniquePrice": 80,
+                "IVA": 12.8,
+                "IEPS": 6.4,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 80
+            }
+        ],
+        "subTotal": 180,
+        "taxes": {
+            "IVA": 21.12,
+            "IEPS": 6.4,
+            "Total": 27.52
+        },
+        "totalBill": 207.52
+    }, {
+        "folio": 15,
+        "dateEmission": "2025-02-10T10:41:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 16,
+                "IVA": 2.56,
+                "IEPS": null,
+                "amount": 6,
+                "kg": null,
+                "discountAmount": null,
+                "total": 96
+            }, {
+                "uniquePrice": 29,
+                "IVA": 4.64,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.4,
+                "discountAmount": null,
+                "total": 40.6
+            }
+        ],
+        "subTotal": 136.6,
+        "taxes": {
+            "IVA": 7.2,
+            "IEPS": null,
+            "Total": 7.2
+        },
+        "totalBill": 143.8
+    }, {
+        "folio": 16,
+        "dateEmission": "2025-02-10T15:09:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 44,
+                "IVA": 7.04,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 4,
+                "total": 80
+            }, {
+                "uniquePrice": 110,
+                "IVA": 17.6,
+                "IEPS": 8.8,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 110
+            }
+        ],
+        "subTotal": 190,
+        "taxes": {
+            "IVA": 24.64,
+            "IEPS": 8.8,
+            "Total": 33.44
+        },
+        "totalBill": 223.44
+    }, {
+        "folio": 17,
+        "dateEmission": "2025-02-11T11:00:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 21,
+                "IVA": 3.36,
+                "IEPS": null,
+                "amount": 5,
+                "kg": null,
+                "discountAmount": null,
+                "total": 105
+            }, {
+                "uniquePrice": 70,
+                "IVA": 11.2,
+                "IEPS": null,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": 10,
+                "total": 60
+            }
+        ],
+        "subTotal": 165,
+        "taxes": {
+            "IVA": 14.56,
+            "IEPS": null,
+            "Total": 14.56
+        },
+        "totalBill": 179.56
+    }, {
+        "folio": 18,
+        "dateEmission": "2025-02-11T16:25:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 33,
+                "IVA": 5.28,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.7,
+                "discountAmount": null,
+                "total": 56.1
+            }, {
+                "uniquePrice": 120,
+                "IVA": 19.2,
+                "IEPS": 9.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 120
+            }
+        ],
+        "subTotal": 176.1,
+        "taxes": {
+            "IVA": 24.48,
+            "IEPS": 9.6,
+            "Total": 34.08
+        },
+        "totalBill": 210.18
+    }, {
+        "folio": 19,
+        "dateEmission": "2025-02-12T09:50:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 25,
+                "IVA": 4,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 100
+            }, {
+                "uniquePrice": 55,
+                "IVA": 8.8,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 100
+            }
+        ],
+        "subTotal": 200,
+        "taxes": {
+            "IVA": 12.8,
+            "IEPS": null,
+            "Total": 12.8
+        },
+        "totalBill": 212.8
+    }, {
+        "folio": 20,
+        "dateEmission": "2025-02-12T18:03:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 38,
+                "IVA": 6.08,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 3,
+                "total": 70
+            }, {
+                "uniquePrice": 90,
+                "IVA": 14.4,
+                "IEPS": 7.2,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 90
+            }
+        ],
+        "subTotal": 160,
+        "taxes": {
+            "IVA": 20.48,
+            "IEPS": 7.2,
+            "Total": 27.68
+        },
+        "totalBill": 187.68
+    }, {
+        "folio": 21,
+        "dateEmission": "2025-02-13T10:20:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 18,
+                "IVA": 2.88,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 72
+            }, {
+                "uniquePrice": 40,
+                "IVA": 6.4,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.5,
+                "discountAmount": null,
+                "total": 60
+            }
+        ],
+        "subTotal": 132,
+        "taxes": {
+            "IVA": 9.28,
+            "IEPS": null,
+            "Total": 9.28
+        },
+        "totalBill": 141.28
+    }, {
+        "folio": 22,
+        "dateEmission": "2025-02-13T14:12:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 30,
+                "IVA": 4.8,
+                "IEPS": null,
+                "amount": 3,
+                "kg": null,
+                "discountAmount": 2,
+                "total": 84
+            }, {
+                "uniquePrice": 120,
+                "IVA": 19.2,
+                "IEPS": 9.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 120
+            }
+        ],
+        "subTotal": 204,
+        "taxes": {
+            "IVA": 24,
+            "IEPS": 9.6,
+            "Total": 33.6
+        },
+        "totalBill": 237.6
+    }, {
+        "folio": 23,
+        "dateEmission": "2025-02-14T09:15:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 22,
+                "IVA": 3.52,
+                "IEPS": null,
+                "amount": 5,
+                "kg": null,
+                "discountAmount": null,
+                "total": 110
+            }, {
+                "uniquePrice": 35,
+                "IVA": 5.6,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.8,
+                "discountAmount": null,
+                "total": 63
+            }
+        ],
+        "subTotal": 173,
+        "taxes": {
+            "IVA": 9.12,
+            "IEPS": null,
+            "Total": 9.12
+        },
+        "totalBill": 182.12
+    }, {
+        "folio": 24,
+        "dateEmission": "2025-02-14T16:44:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 48,
+                "IVA": 7.68,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 3,
+                "total": 90
+            }, {
+                "uniquePrice": 95,
+                "IVA": 15.2,
+                "IEPS": 7.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 95
+            }
+        ],
+        "subTotal": 185,
+        "taxes": {
+            "IVA": 22.88,
+            "IEPS": 7.6,
+            "Total": 30.48
+        },
+        "totalBill": 215.48
+    }, {
+        "folio": 25,
+        "dateEmission": "2025-02-15T11:07:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 16,
+                "IVA": 2.56,
+                "IEPS": null,
+                "amount": 6,
+                "kg": null,
+                "discountAmount": null,
+                "total": 96
+            }, {
+                "uniquePrice": 28,
+                "IVA": 4.48,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.6,
+                "discountAmount": null,
+                "total": 44.8
+            }
+        ],
+        "subTotal": 140.8,
+        "taxes": {
+            "IVA": 7.04,
+            "IEPS": null,
+            "Total": 7.04
+        },
+        "totalBill": 147.84
+    }, {
+        "folio": 26,
+        "dateEmission": "2025-02-15T15:33:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 42,
+                "IVA": 6.72,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 2,
+                "total": 80
+            }, {
+                "uniquePrice": 110,
+                "IVA": 17.6,
+                "IEPS": 8.8,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 110
+            }
+        ],
+        "subTotal": 190,
+        "taxes": {
+            "IVA": 24.32,
+            "IEPS": 8.8,
+            "Total": 33.12
+        },
+        "totalBill": 223.12
+    }, {
+        "folio": 27,
+        "dateEmission": "2025-02-16T10:02:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 21,
+                "IVA": 3.36,
+                "IEPS": null,
+                "amount": 5,
+                "kg": null,
+                "discountAmount": null,
+                "total": 105
+            }, {
+                "uniquePrice": 55,
+                "IVA": 8.8,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 100
+            }
+        ],
+        "subTotal": 205,
+        "taxes": {
+            "IVA": 12.16,
+            "IEPS": null,
+            "Total": 12.16
+        },
+        "totalBill": 217.16
+    }, {
+        "folio": 28,
+        "dateEmission": "2025-02-16T14:58:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 33,
+                "IVA": 5.28,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.7,
+                "discountAmount": null,
+                "total": 56.1
+            }, {
+                "uniquePrice": 120,
+                "IVA": 19.2,
+                "IEPS": 9.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 120
+            }
+        ],
+        "subTotal": 176.1,
+        "taxes": {
+            "IVA": 24.48,
+            "IEPS": 9.6,
+            "Total": 34.08
+        },
+        "totalBill": 210.18
+    }, {
+        "folio": 29,
+        "dateEmission": "2025-02-17T09:49:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 25,
+                "IVA": 4,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 100
+            }, {
+                "uniquePrice": 70,
+                "IVA": 11.2,
+                "IEPS": null,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": 10,
+                "total": 60
+            }
+        ],
+        "subTotal": 160,
+        "taxes": {
+            "IVA": 15.2,
+            "IEPS": null,
+            "Total": 15.2
+        },
+        "totalBill": 175.2
+    }, {
+        "folio": 30,
+        "dateEmission": "2025-02-17T17:05:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 38,
+                "IVA": 6.08,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 3,
+                "total": 70
+            }, {
+                "uniquePrice": 90,
+                "IVA": 14.4,
+                "IEPS": 7.2,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 90
+            }
+        ],
+        "subTotal": 160,
+        "taxes": {
+            "IVA": 20.48,
+            "IEPS": 7.2,
+            "Total": 27.68
+        },
+        "totalBill": 187.68
+    }, {
+        "folio": 31,
+        "dateEmission": "2025-02-18T10:10:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 20,
+                "IVA": 3.2,
+                "IEPS": null,
+                "amount": 3,
+                "kg": null,
+                "discountAmount": null,
+                "total": 60
+            }, {
+                "uniquePrice": 34,
+                "IVA": 5.44,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.5,
+                "discountAmount": null,
+                "total": 51
+            }
+        ],
+        "subTotal": 111,
+        "taxes": {
+            "IVA": 8.64,
+            "IEPS": null,
+            "Total": 8.64
+        },
+        "totalBill": 119.64
+    }, {
+        "folio": 32,
+        "dateEmission": "2025-02-18T14:32:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 45,
+                "IVA": 7.2,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 80
+            }, {
+                "uniquePrice": 120,
+                "IVA": 19.2,
+                "IEPS": 9.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 120
+            }
+        ],
+        "subTotal": 200,
+        "taxes": {
+            "IVA": 26.4,
+            "IEPS": 9.6,
+            "Total": 36
+        },
+        "totalBill": 236
+    }, {
+        "folio": 33,
+        "dateEmission": "2025-02-19T09:21:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 22,
+                "IVA": 3.52,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 88
+            }, {
+                "uniquePrice": 36,
+                "IVA": 5.76,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.7,
+                "discountAmount": null,
+                "total": 61.2
+            }
+        ],
+        "subTotal": 149.2,
+        "taxes": {
+            "IVA": 9.28,
+            "IEPS": null,
+            "Total": 9.28
+        },
+        "totalBill": 158.48
+    }, {
+        "folio": 34,
+        "dateEmission": "2025-02-19T16:40:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 52,
+                "IVA": 8.32,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 4,
+                "total": 96
+            }, {
+                "uniquePrice": 95,
+                "IVA": 15.2,
+                "IEPS": 7.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 95
+            }
+        ],
+        "subTotal": 191,
+        "taxes": {
+            "IVA": 23.52,
+            "IEPS": 7.6,
+            "Total": 31.12
+        },
+        "totalBill": 222.12
+    }, {
+        "folio": 35,
+        "dateEmission": "2025-02-20T11:02:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 16,
+                "IVA": 2.56,
+                "IEPS": null,
+                "amount": 5,
+                "kg": null,
+                "discountAmount": null,
+                "total": 80
+            }, {
+                "uniquePrice": 28,
+                "IVA": 4.48,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.8,
+                "discountAmount": null,
+                "total": 50.4
+            }
+        ],
+        "subTotal": 130.4,
+        "taxes": {
+            "IVA": 7.04,
+            "IEPS": null,
+            "Total": 7.04
+        },
+        "totalBill": 137.44
+    }, {
+        "folio": 36,
+        "dateEmission": "2025-02-20T15:50:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 40,
+                "IVA": 6.4,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 5,
+                "total": 70
+            }, {
+                "uniquePrice": 110,
+                "IVA": 17.6,
+                "IEPS": 8.8,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 110
+            }
+        ],
+        "subTotal": 180,
+        "taxes": {
+            "IVA": 24,
+            "IEPS": 8.8,
+            "Total": 32.8
+        },
+        "totalBill": 212.8
+    }, {
+        "folio": 37,
+        "dateEmission": "2025-02-21T09:48:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 21,
+                "IVA": 3.36,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 84
+            }, {
+                "uniquePrice": 35,
+                "IVA": 5.6,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.6,
+                "discountAmount": null,
+                "total": 56
+            }
+        ],
+        "subTotal": 140,
+        "taxes": {
+            "IVA": 8.96,
+            "IEPS": null,
+            "Total": 8.96
+        },
+        "totalBill": 148.96
+    }, {
+        "folio": 38,
+        "dateEmission": "2025-02-21T17:10:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 33,
+                "IVA": 5.28,
+                "IEPS": null,
+                "amount": null,
+                "kg": 1.7,
+                "discountAmount": null,
+                "total": 56.1
+            }, {
+                "uniquePrice": 120,
+                "IVA": 19.2,
+                "IEPS": 9.6,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 120
+            }
+        ],
+        "subTotal": 176.1,
+        "taxes": {
+            "IVA": 24.48,
+            "IEPS": 9.6,
+            "Total": 34.08
+        },
+        "totalBill": 210.18
+    }, {
+        "folio": 39,
+        "dateEmission": "2025-02-22T10:12:00",
+        "paymentMethod": "efectivo",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 25,
+                "IVA": 4,
+                "IEPS": null,
+                "amount": 4,
+                "kg": null,
+                "discountAmount": null,
+                "total": 100
+            }, {
+                "uniquePrice": 70,
+                "IVA": 11.2,
+                "IEPS": null,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": 10,
+                "total": 60
+            }
+        ],
+        "subTotal": 160,
+        "taxes": {
+            "IVA": 15.2,
+            "IEPS": null,
+            "Total": 15.2
+        },
+        "totalBill": 175.2
+    }, {
+        "folio": 40,
+        "dateEmission": "2025-02-22T18:05:00",
+        "paymentMethod": "tarjeta",
+        "sender": {
+            "name": "Supermercados del Valle S.A. de C.V.",
+            "RFC": "SVA920315AB3",
+            "address": {
+                "street": "Avenida Universidad",
+                "colony": "Santa Cruz Atoyac",
+                "number": 540
+            },
+            "taxRegime": "601 General de Ley Personas Morales"
+        },
+        "products": [{
+                "uniquePrice": 38,
+                "IVA": 6.08,
+                "IEPS": null,
+                "amount": 2,
+                "kg": null,
+                "discountAmount": 3,
+                "total": 70
+            }, {
+                "uniquePrice": 90,
+                "IVA": 14.4,
+                "IEPS": 7.2,
+                "amount": 1,
+                "kg": null,
+                "discountAmount": null,
+                "total": 90
+            }
+        ],
+        "subTotal": 160,
+        "taxes": {
+            "IVA": 20.48,
+            "IEPS": 7.2,
+            "Total": 27.68
+        },
+        "totalBill": 187.68
+    }
+]

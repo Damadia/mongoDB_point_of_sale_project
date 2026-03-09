@@ -1,0 +1,245 @@
+[{
+        "number": 1,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 5120.40,
+        "employees": ["Luis Martinez", "Ana Lopez"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 10]
+    }, {
+        "number": 2,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 3380.75,
+        "employees": ["Carlos Ramirez", "Marta Salgado"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 11]
+    }, {
+        "number": 3,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 4210.20,
+        "employees": ["Jose Alvarez", "Daniel Ortiz"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 12]
+    }, {
+        "number": 4,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 2980.60,
+        "employees": ["Andrea Morales", "Pedro Ruiz"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 13]
+    }, {
+        "number": 5,
+        "type": "normal",
+        "department": "farmacia",
+        "currentPhysicalCash": 4475.10,
+        "employees": ["Laura Hernandez", "Sergio Vargas"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 14]
+    }, {
+        "number": 6,
+        "type": "normal",
+        "department": "panaderia",
+        "currentPhysicalCash": 2620.00,
+        "employees": ["Mario Gomez", "Lucia Campos"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 15]
+    }, {
+        "number": 7,
+        "type": "normal",
+        "department": "hogar",
+        "currentPhysicalCash": 3150.45,
+        "employees": ["Hector Rojas", "Patricia Soto"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 16]
+    }, {
+        "number": 8,
+        "type": "normal",
+        "department": "electronica",
+        "currentPhysicalCash": 6890.30,
+        "employees": ["Ivan Aguilar", "Karina Fuentes"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 17]
+    }, {
+        "number": 9,
+        "type": "normal",
+        "department": "ropa",
+        "currentPhysicalCash": 3740.25,
+        "employees": ["Diana Navarro", "Luis Peña"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 18]
+    }, {
+        "number": 10,
+        "type": "normal",
+        "department": "deportes",
+        "currentPhysicalCash": 2865.10,
+        "employees": ["Victor Soto", "Adriana Torres"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 19]
+    },
+    {
+        "number": 11,
+        "type": "normal",
+        "department": "perfumeria",
+        "currentPhysicalCash": 3095.45,
+        "employees": ["Claudia Marin", "Rafael Ortega"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 20]
+    }, {
+        "number": 12,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 4980.90,
+        "employees": ["Jorge Velasco", "Monica Ibarra"],
+        "connectionLocalDB": false,
+        "ip": [10, 200, 1, 21]
+    }, {
+        "number": 13,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 5270.60,
+        "employees": ["Fernando Lara", "Paola Rios"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 22]
+    }, {
+        "number": 14,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 4105.30,
+        "employees": ["Ricardo Mejia", "Claudia Vega"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 23]
+    }, {
+        "number": 15,
+        "type": "normal",
+        "department": "farmacia",
+        "currentPhysicalCash": 4520.80,
+        "employees": ["Sandra Luna", "Daniel Mejia"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 24]
+    }, {
+        "number": 16,
+        "type": "normal",
+        "department": "panaderia",
+        "currentPhysicalCash": 2450.10,
+        "employees": ["Miguel Santos", "Leticia Vega"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 25]
+    }, {
+        "number": 17,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 5340.55,
+        "employees": ["Francisco Duarte", "Natalia Ramos"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 26]
+    }, {
+        "number": 18,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 4665.35,
+        "employees": ["Eduardo Castro", "Julia Peña"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 27]
+    }, {
+        "number": 19,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 4905.20,
+        "employees": ["Oscar Bravo", "Erika Santos"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 28]
+    }, {
+        "number": 20,
+        "type": "normal",
+        "department": "general",
+        "currentPhysicalCash": 5225.95,
+        "employees": ["Alejandro Pineda", "Rosa Delgado"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 29]
+    },
+    {
+        "number": 21,
+        "type": "express",
+        "department": "general",
+        "currentPhysicalCash": 1580.20,
+        "employees": ["Sergio Vargas"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 30]
+    }, {
+        "number": 22,
+        "type": "express",
+        "department": "general",
+        "currentPhysicalCash": 1890.90,
+        "employees": ["Andrea Morales"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 31]
+    }, {
+        "number": 23,
+        "type": "express",
+        "department": "general",
+        "currentPhysicalCash": 1710.40,
+        "employees": ["Paola Rios"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 32]
+    }, {
+        "number": 24,
+        "type": "express",
+        "department": "general",
+        "currentPhysicalCash": 1635.70,
+        "employees": ["Alberto Cruz"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 33]
+    },
+    {
+        "number": 25,
+        "type": "autocobro",
+        "department": "general",
+        "currentPhysicalCash": 640.50,
+        "employees": ["Supervisor sistema"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 34]
+    }, {
+        "number": 26,
+        "type": "autocobro",
+        "department": "general",
+        "currentPhysicalCash": 720.10,
+        "employees": ["Supervisor sistema"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 35]
+    }, {
+        "number": 27,
+        "type": "autocobro",
+        "department": "general",
+        "currentPhysicalCash": 685.80,
+        "employees": ["Supervisor sistema"],
+        "connectionLocalDB": false,
+        "ip": [10, 200, 1, 36]
+    }, {
+        "number": 28,
+        "type": "autocobro",
+        "department": "general",
+        "currentPhysicalCash": 705.20,
+        "employees": ["Supervisor sistema"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 37]
+    }, {
+        "number": 29,
+        "type": "autocobro",
+        "department": "general",
+        "currentPhysicalCash": 660.90,
+        "employees": ["Supervisor sistema"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 38]
+    }, {
+        "number": 30,
+        "type": "autocobro",
+        "department": "general",
+        "currentPhysicalCash": 695.10,
+        "employees": ["Supervisor sistema"],
+        "connectionLocalDB": true,
+        "ip": [10, 200, 1, 39]
+    }
+]

@@ -1,0 +1,1496 @@
+[{
+        "registerNumber": 1,
+        "dateBegin": {
+            "$date": "2026-02-03T08:52:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-03T22:55:00Z"
+        },
+        "responsible": "Luis Martinez",
+        "beginningBalance": 4200,
+        "cutSummary": {
+            "cashNum": 143,
+            "cashAmount": 11250,
+            "digitalNum": 97,
+            "digitalAmount": 8450,
+            "outflows": 520,
+            "taxes": 3152,
+            "phisycalCut": 13130,
+            "totalCut": 20228
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 23
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 27
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 12
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 2,
+        "dateBegin": {
+            "$date": "2026-02-03T08:49:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-03T22:57:00Z"
+        },
+        "responsible": "Carlos Ramirez",
+        "beginningBalance": 3950,
+        "cutSummary": {
+            "cashNum": 121,
+            "cashAmount": 9840,
+            "digitalNum": 88,
+            "digitalAmount": 7920,
+            "outflows": 430,
+            "taxes": 2841.6,
+            "phisycalCut": 11785.6,
+            "totalCut": 18438.4
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 16
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 21
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 9
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 3,
+        "dateBegin": {
+            "$date": "2026-02-03T08:58:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-03T23:04:00Z"
+        },
+        "responsible": "Jose Alvarez",
+        "beginningBalance": 4100,
+        "cutSummary": {
+            "cashNum": 150,
+            "cashAmount": 12040,
+            "digitalNum": 110,
+            "digitalAmount": 9360,
+            "outflows": 610,
+            "taxes": 3424,
+            "phisycalCut": 13603.6,
+            "totalCut": 21466
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Tortillas de maiz",
+                    "amount": 32
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 25
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 20
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 15
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 4
+                }, {
+                    "name": "Taladro electrico 600W",
+                    "amount": 1
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 4,
+        "dateBegin": {
+            "$date": "2026-02-03T08:47:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-03T22:50:00Z"
+        },
+        "responsible": "Daniel Ortiz",
+        "beginningBalance": 3800,
+        "cutSummary": {
+            "cashNum": 110,
+            "cashAmount": 9050,
+            "digitalNum": 95,
+            "digitalAmount": 8120,
+            "outflows": 350,
+            "taxes": 2747.2,
+            "phisycalCut": 11022,
+            "totalCut": 17872.8
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 17
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 20
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 11
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 5,
+        "dateBegin": {
+            "$date": "2026-02-03T08:55:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-03T23:02:00Z"
+        },
+        "responsible": "Laura Hernandez",
+        "beginningBalance": 4400,
+        "cutSummary": {
+            "cashNum": 132,
+            "cashAmount": 10300,
+            "digitalNum": 101,
+            "digitalAmount": 8900,
+            "outflows": 410,
+            "taxes": 3072,
+            "phisycalCut": 12642,
+            "totalCut": 20118
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 22
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 16
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 14
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 8
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 1,
+        "dateBegin": {
+            "$date": "2026-02-08T08:50:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T22:56:00Z"
+        },
+        "responsible": "Ana Lopez",
+        "beginningBalance": 4350,
+        "cutSummary": {
+            "cashNum": 148,
+            "cashAmount": 11820,
+            "digitalNum": 104,
+            "digitalAmount": 9020,
+            "outflows": 460,
+            "taxes": 3334.4,
+            "phisycalCut": 13818.8,
+            "totalCut": 21395.6
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 26
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 21
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 30
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 14
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 9
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 2,
+        "dateBegin": {
+            "$date": "2026-02-08T08:47:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T22:49:00Z"
+        },
+        "responsible": "Marta Salgado",
+        "beginningBalance": 4020,
+        "cutSummary": {
+            "cashNum": 120,
+            "cashAmount": 9540,
+            "digitalNum": 96,
+            "digitalAmount": 8410,
+            "outflows": 390,
+            "taxes": 2872,
+            "phisycalCut": 11643.6,
+            "totalCut": 18708
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 15
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 11
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 3
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 3,
+        "dateBegin": {
+            "$date": "2026-02-08T08:58:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T23:05:00Z"
+        },
+        "responsible": "Daniel Ortiz",
+        "beginningBalance": 4280,
+        "cutSummary": {
+            "cashNum": 152,
+            "cashAmount": 12100,
+            "digitalNum": 113,
+            "digitalAmount": 9750,
+            "outflows": 640,
+            "taxes": 3496,
+            "phisycalCut": 13824,
+            "totalCut": 21994
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Tortillas de maiz",
+                    "amount": 34
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 24
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 19
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 17
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 6
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 5
+                }, {
+                    "name": "Taladro electrico 600W",
+                    "amount": 1
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 4,
+        "dateBegin": {
+            "$date": "2026-02-08T08:46:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T22:48:00Z"
+        },
+        "responsible": "Andrea Morales",
+        "beginningBalance": 3890,
+        "cutSummary": {
+            "cashNum": 111,
+            "cashAmount": 9150,
+            "digitalNum": 98,
+            "digitalAmount": 8200,
+            "outflows": 370,
+            "taxes": 2776,
+            "phisycalCut": 11206,
+            "totalCut": 18094
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 22
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 10
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 4
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 5,
+        "dateBegin": {
+            "$date": "2026-02-08T08:53:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T23:02:00Z"
+        },
+        "responsible": "Sergio Vargas",
+        "beginningBalance": 4520,
+        "cutSummary": {
+            "cashNum": 134,
+            "cashAmount": 10460,
+            "digitalNum": 108,
+            "digitalAmount": 9010,
+            "outflows": 420,
+            "taxes": 3107.2,
+            "phisycalCut": 12866.4,
+            "totalCut": 20462.8
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 20
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 14
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 18
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 15
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 9
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 6,
+        "dateBegin": {
+            "$date": "2026-02-08T08:49:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T22:58:00Z"
+        },
+        "responsible": "Mario Gomez",
+        "beginningBalance": 4100,
+        "cutSummary": {
+            "cashNum": 125,
+            "cashAmount": 9720,
+            "digitalNum": 90,
+            "digitalAmount": 7850,
+            "outflows": 360,
+            "taxes": 2811.2,
+            "phisycalCut": 11903.6,
+            "totalCut": 18498.8
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 25
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 28
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 17
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 8
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 7,
+        "dateBegin": {
+            "$date": "2026-02-08T08:57:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T23:03:00Z"
+        },
+        "responsible": "Hector Rojas",
+        "beginningBalance": 3980,
+        "cutSummary": {
+            "cashNum": 118,
+            "cashAmount": 9300,
+            "digitalNum": 95,
+            "digitalAmount": 8010,
+            "outflows": 330,
+            "taxes": 2769.6,
+            "phisycalCut": 11482,
+            "totalCut": 18190.4
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 20
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 13
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 3
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 2
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 8,
+        "dateBegin": {
+            "$date": "2026-02-08T08:48:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T22:53:00Z"
+        },
+        "responsible": "Ivan Aguilar",
+        "beginningBalance": 4700,
+        "cutSummary": {
+            "cashNum": 160,
+            "cashAmount": 12850,
+            "digitalNum": 120,
+            "digitalAmount": 10500,
+            "outflows": 700,
+            "taxes": 3740,
+            "phisycalCut": 14894,
+            "totalCut": 23610
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Taladro electrico 600W",
+                    "amount": 2
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 6
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 5
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 16
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 8
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 9,
+        "dateBegin": {
+            "$date": "2026-02-08T08:54:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T23:08:00Z"
+        },
+        "responsible": "Luis Peña",
+        "beginningBalance": 4200,
+        "cutSummary": {
+            "cashNum": 130,
+            "cashAmount": 10100,
+            "digitalNum": 102,
+            "digitalAmount": 8820,
+            "outflows": 410,
+            "taxes": 3035.2,
+            "phisycalCut": 12273.6,
+            "totalCut": 19674.8
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Playera deportiva hombre",
+                    "amount": 12
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 7
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 16
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 14
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 5
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 10,
+        "dateBegin": {
+            "$date": "2026-02-08T08:51:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-08T22:59:00Z"
+        },
+        "responsible": "Victor Soto",
+        "beginningBalance": 4050,
+        "cutSummary": {
+            "cashNum": 122,
+            "cashAmount": 9640,
+            "digitalNum": 94,
+            "digitalAmount": 8120,
+            "outflows": 340,
+            "taxes": 2838.4,
+            "phisycalCut": 11807.6,
+            "totalCut": 18631.6
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Balon de futbol profesional",
+                    "amount": 9
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 10
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 18
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 17
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 1,
+        "dateBegin": {
+            "$date": "2026-02-21T08:48:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T22:52:00Z"
+        },
+        "responsible": "Luis Martinez",
+        "beginningBalance": 4500,
+        "cutSummary": {
+            "cashNum": 155,
+            "cashAmount": 12300,
+            "digitalNum": 118,
+            "digitalAmount": 10150,
+            "outflows": 520,
+            "taxes": 3592,
+            "phisycalCut": 14312,
+            "totalCut": 22538
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 27
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 23
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 31
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 16
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 9
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 2,
+        "dateBegin": {
+            "$date": "2026-02-21T08:55:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T22:49:00Z"
+        },
+        "responsible": "Carlos Ramirez",
+        "beginningBalance": 4200,
+        "cutSummary": {
+            "cashNum": 132,
+            "cashAmount": 10450,
+            "digitalNum": 105,
+            "digitalAmount": 9250,
+            "outflows": 410,
+            "taxes": 3152,
+            "phisycalCut": 12668,
+            "totalCut": 19338
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 20
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 12
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 4
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 3,
+        "dateBegin": {
+            "$date": "2026-02-21T08:59:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T23:05:00Z"
+        },
+        "responsible": "Jose Alvarez",
+        "beginningBalance": 4380,
+        "cutSummary": {
+            "cashNum": 168,
+            "cashAmount": 13050,
+            "digitalNum": 120,
+            "digitalAmount": 10820,
+            "outflows": 620,
+            "taxes": 3819.2,
+            "phisycalCut": 14722,
+            "totalCut": 23810.8
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Tortillas de maiz",
+                    "amount": 35
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 25
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 21
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 17
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 6
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 5
+                }, {
+                    "name": "Taladro electrico 600W",
+                    "amount": 1
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 4,
+        "dateBegin": {
+            "$date": "2026-02-21T08:47:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T22:50:00Z"
+        },
+        "responsible": "Daniel Ortiz",
+        "beginningBalance": 4050,
+        "cutSummary": {
+            "cashNum": 118,
+            "cashAmount": 9400,
+            "digitalNum": 97,
+            "digitalAmount": 8350,
+            "outflows": 360,
+            "taxes": 2832,
+            "phisycalCut": 11586,
+            "totalCut": 18608
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 19
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 22
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 10
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 4
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 5,
+        "dateBegin": {
+            "$date": "2026-02-21T08:53:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T23:02:00Z"
+        },
+        "responsible": "Laura Hernandez",
+        "beginningBalance": 4680,
+        "cutSummary": {
+            "cashNum": 140,
+            "cashAmount": 10820,
+            "digitalNum": 112,
+            "digitalAmount": 9480,
+            "outflows": 450,
+            "taxes": 3256,
+            "phisycalCut": 13159,
+            "totalCut": 21274
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 21
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 16
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 16
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 8
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 6,
+        "dateBegin": {
+            "$date": "2026-02-21T08:49:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T22:58:00Z"
+        },
+        "responsible": "Mario Gomez",
+        "beginningBalance": 4300,
+        "cutSummary": {
+            "cashNum": 126,
+            "cashAmount": 9800,
+            "digitalNum": 96,
+            "digitalAmount": 8420,
+            "outflows": 350,
+            "taxes": 2915.2,
+            "phisycalCut": 12182,
+            "totalCut": 19254.8
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 26
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 30
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 18
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 9
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 7,
+        "dateBegin": {
+            "$date": "2026-02-21T08:56:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T23:03:00Z"
+        },
+        "responsible": "Hector Rojas",
+        "beginningBalance": 4150,
+        "cutSummary": {
+            "cashNum": 120,
+            "cashAmount": 9500,
+            "digitalNum": 102,
+            "digitalAmount": 8700,
+            "outflows": 330,
+            "taxes": 2912,
+            "phisycalCut": 11700,
+            "totalCut": 19108
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 21
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 19
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 14
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 8,
+        "dateBegin": {
+            "$date": "2026-02-21T08:46:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T22:54:00Z"
+        },
+        "responsible": "Ivan Aguilar",
+        "beginningBalance": 4900,
+        "cutSummary": {
+            "cashNum": 170,
+            "cashAmount": 13500,
+            "digitalNum": 132,
+            "digitalAmount": 11520,
+            "outflows": 750,
+            "taxes": 3993.6,
+            "phisycalCut": 15490,
+            "totalCut": 24176.4
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Taladro electrico 600W",
+                    "amount": 2
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 7
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 6
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 20
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 8
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 9,
+        "dateBegin": {
+            "$date": "2026-02-21T08:54:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T23:07:00Z"
+        },
+        "responsible": "Luis Peña",
+        "beginningBalance": 4400,
+        "cutSummary": {
+            "cashNum": 136,
+            "cashAmount": 10540,
+            "digitalNum": 110,
+            "digitalAmount": 9500,
+            "outflows": 420,
+            "taxes": 3212.8,
+            "phisycalCut": 12973.6,
+            "totalCut": 20807.2
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Playera deportiva hombre",
+                    "amount": 13
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 8
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 18
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 15
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 10,
+        "dateBegin": {
+            "$date": "2026-02-21T08:51:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-02-21T22:59:00Z"
+        },
+        "responsible": "Victor Soto",
+        "beginningBalance": 4250,
+        "cutSummary": {
+            "cashNum": 125,
+            "cashAmount": 9850,
+            "digitalNum": 101,
+            "digitalAmount": 8700,
+            "outflows": 360,
+            "taxes": 2968,
+            "phisycalCut": 12164,
+            "totalCut": 19472
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Balon de futbol profesional",
+                    "amount": 10
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 11
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 1,
+        "dateBegin": {
+            "$date": "2026-03-15T08:50:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T22:53:00Z"
+        },
+        "responsible": "Ana Lopez",
+        "beginningBalance": 4620,
+        "cutSummary": {
+            "cashNum": 160,
+            "cashAmount": 12480,
+            "digitalNum": 126,
+            "digitalAmount": 10820,
+            "outflows": 540,
+            "taxes": 3728,
+            "phisycalCut": 14563.2,
+            "totalCut": 23652
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 24
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 20
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 33
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 14
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 9
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 2,
+        "dateBegin": {
+            "$date": "2026-03-15T08:47:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T22:48:00Z"
+        },
+        "responsible": "Marta Salgado",
+        "beginningBalance": 4380,
+        "cutSummary": {
+            "cashNum": 135,
+            "cashAmount": 10560,
+            "digitalNum": 110,
+            "digitalAmount": 9360,
+            "outflows": 420,
+            "taxes": 3187.2,
+            "phisycalCut": 12830.4,
+            "totalCut": 20692.8
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 21
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 17
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 10
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 4
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 3,
+        "dateBegin": {
+            "$date": "2026-03-15T08:59:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T23:05:00Z"
+        },
+        "responsible": "Jose Alvarez",
+        "beginningBalance": 4520,
+        "cutSummary": {
+            "cashNum": 170,
+            "cashAmount": 13200,
+            "digitalNum": 138,
+            "digitalAmount": 11840,
+            "outflows": 650,
+            "taxes": 4016,
+            "phisycalCut": 14942,
+            "totalCut": 24894
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Tortillas de maiz",
+                    "amount": 36
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 26
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 22
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 18
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 6
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 5
+                }, {
+                    "name": "Taladro electrico 600W",
+                    "amount": 2
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 4,
+        "dateBegin": {
+            "$date": "2026-03-15T08:46:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T22:50:00Z"
+        },
+        "responsible": "Andrea Morales",
+        "beginningBalance": 4200,
+        "cutSummary": {
+            "cashNum": 122,
+            "cashAmount": 9600,
+            "digitalNum": 104,
+            "digitalAmount": 8820,
+            "outflows": 360,
+            "taxes": 2947.2,
+            "phisycalCut": 11904,
+            "totalCut": 19352.8
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 21
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 11
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 4
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 5,
+        "dateBegin": {
+            "$date": "2026-03-15T08:54:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T23:02:00Z"
+        },
+        "responsible": "Sergio Vargas",
+        "beginningBalance": 4700,
+        "cutSummary": {
+            "cashNum": 142,
+            "cashAmount": 10980,
+            "digitalNum": 118,
+            "digitalAmount": 9600,
+            "outflows": 440,
+            "taxes": 3292.8,
+            "phisycalCut": 13483.2,
+            "totalCut": 21547.2
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 20
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 15
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 16
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 8
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 6,
+        "dateBegin": {
+            "$date": "2026-03-15T08:48:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T22:58:00Z"
+        },
+        "responsible": "Lucia Campos",
+        "beginningBalance": 4380,
+        "cutSummary": {
+            "cashNum": 128,
+            "cashAmount": 10040,
+            "digitalNum": 102,
+            "digitalAmount": 8740,
+            "outflows": 380,
+            "taxes": 3004.8,
+            "phisycalCut": 12453.6,
+            "totalCut": 19735.2
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Pan blanco grande",
+                    "amount": 24
+                }, {
+                    "name": "Tortillas de maiz",
+                    "amount": 28
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 18
+                }, {
+                    "name": "Jarabe para la tos infantil",
+                    "amount": 9
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 7,
+        "dateBegin": {
+            "$date": "2026-03-15T08:56:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T23:03:00Z"
+        },
+        "responsible": "Patricia Soto",
+        "beginningBalance": 4300,
+        "cutSummary": {
+            "cashNum": 124,
+            "cashAmount": 9720,
+            "digitalNum": 108,
+            "digitalAmount": 9040,
+            "outflows": 350,
+            "taxes": 3001.6,
+            "phisycalCut": 12113.6,
+            "totalCut": 19708.4
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Leche entera 1L",
+                    "amount": 20
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Ibuprofeno 400mg",
+                    "amount": 13
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 3
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 8,
+        "dateBegin": {
+            "$date": "2026-03-15T08:45:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T22:54:00Z"
+        },
+        "responsible": "Karina Fuentes",
+        "beginningBalance": 5100,
+        "cutSummary": {
+            "cashNum": 178,
+            "cashAmount": 13850,
+            "digitalNum": 142,
+            "digitalAmount": 12020,
+            "outflows": 760,
+            "taxes": 4139.2,
+            "phisycalCut": 16173.6,
+            "totalCut": 26070.8
+        },
+        "cutStock": {
+            "total": 7,
+            "products": [{
+                    "name": "Taladro electrico 600W",
+                    "amount": 2
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 8
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 7
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 21
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 19
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 8
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 5
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 9,
+        "dateBegin": {
+            "$date": "2026-03-15T08:53:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T23:08:00Z"
+        },
+        "responsible": "Diana Navarro",
+        "beginningBalance": 4550,
+        "cutSummary": {
+            "cashNum": 140,
+            "cashAmount": 10820,
+            "digitalNum": 116,
+            "digitalAmount": 9640,
+            "outflows": 420,
+            "taxes": 3267.2,
+            "phisycalCut": 13339.2,
+            "totalCut": 21322.8
+        },
+        "cutStock": {
+            "total": 6,
+            "products": [{
+                    "name": "Playera deportiva hombre",
+                    "amount": 14
+                }, {
+                    "name": "Balon de futbol profesional",
+                    "amount": 9
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 18
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 15
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 6
+                }, {
+                    "name": "Perfume Floral Mujer 100ml",
+                    "amount": 4
+                }
+            ]
+        }
+    }, {
+        "registerNumber": 10,
+        "dateBegin": {
+            "$date": "2026-03-15T08:51:00Z"
+        },
+        "dateCut": {
+            "$date": "2026-03-15T22:59:00Z"
+        },
+        "responsible": "Adriana Torres",
+        "beginningBalance": 4400,
+        "cutSummary": {
+            "cashNum": 130,
+            "cashAmount": 10020,
+            "digitalNum": 109,
+            "digitalAmount": 9100,
+            "outflows": 360,
+            "taxes": 3059.2,
+            "phisycalCut": 12456.8,
+            "totalCut": 20060.8
+        },
+        "cutStock": {
+            "total": 5,
+            "products": [{
+                    "name": "Balon de futbol profesional",
+                    "amount": 10
+                }, {
+                    "name": "Playera deportiva hombre",
+                    "amount": 11
+                }, {
+                    "name": "Leche entera 1L",
+                    "amount": 19
+                }, {
+                    "name": "Pan blanco grande",
+                    "amount": 18
+                }, {
+                    "name": "Shampoo control caida",
+                    "amount": 7
+                }
+            ]
+        }
+    }
+
+]

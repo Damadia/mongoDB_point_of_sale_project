@@ -1,0 +1,16 @@
+{
+	number: Number
+	type: String
+	department: String
+	
+	currentPhysicalCash: Number
+	
+	employees: [String]
+	
+	
+	ip: array[0-255,0-255,0-255,0-255]
+	connectionLocalDB: Bool
+	
+
+
+}

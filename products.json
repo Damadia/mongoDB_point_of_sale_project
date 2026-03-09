@@ -1,0 +1,1590 @@
+[{
+        "name": "Leche entera 1L",
+        "price": 28.50,
+        "brand": "Lala",
+        "desc": "Leche entera pasteurizada de vaca ideal para consumo diario.",
+        "department": {
+            "category": "comida",
+            "subCategory": "lacteos"
+        },
+        "expDate": {
+            "$date": "2026-03-25"
+        },
+        "mdfDate": {
+            "$date": "2026-03-01"
+        },
+        "kg": null,
+        "ml": 1000,
+        "stock": 84,
+        "nutritionalInfo": {
+            "gPerPortion": 240,
+            "kcal": 150,
+            "nutrients": [{
+                    "name": "Proteína",
+                    "grams": 8
+                }, {
+                    "name": "Grasa",
+                    "grams": 8
+                }
+            ],
+            "dailyVal": 12
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Yogurt natural",
+        "price": 18.90,
+        "brand": "Danone",
+        "desc": "Yogurt natural cremoso con cultivos vivos.",
+        "department": {
+            "category": "comida",
+            "subCategory": "lacteos"
+        },
+        "expDate": {
+            "$date": "2026-03-20"
+        },
+        "mdfDate": {
+            "$date": "2026-03-01"
+        },
+        "kg": 0.25,
+        "ml": null,
+        "stock": 66,
+        "nutritionalInfo": {
+            "gPerPortion": 125,
+            "kcal": 75,
+            "nutrients": [{
+                    "name": "Proteína",
+                    "grams": 4
+                }, {
+                    "name": "Calcio",
+                    "grams": 0.15
+                }
+            ],
+            "dailyVal": 10
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Queso Oaxaca",
+        "price": 96.40,
+        "brand": "Esmeralda",
+        "desc": "Queso Oaxaca tradicional ideal para quesadillas.",
+        "department": {
+            "category": "comida",
+            "subCategory": "lacteos"
+        },
+        "expDate": {
+            "$date": "2026-03-18"
+        },
+        "mdfDate": {
+            "$date": "2026-03-02"
+        },
+        "kg": 0.5,
+        "ml": null,
+        "stock": 32,
+        "nutritionalInfo": {
+            "gPerPortion": 30,
+            "kcal": 95,
+            "nutrients": [{
+                    "name": "Proteína",
+                    "grams": 7
+                }, {
+                    "name": "Grasa",
+                    "grams": 7
+                }
+            ],
+            "dailyVal": 9
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Manzana roja",
+        "price": 38.00,
+        "brand": "Campo Vivo",
+        "desc": "Manzana roja fresca ideal para snack o postres.",
+        "department": {
+            "category": "comida",
+            "subCategory": "frutas"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-03-05"
+        },
+        "kg": 1,
+        "ml": null,
+        "stock": 120,
+        "nutritionalInfo": {
+            "gPerPortion": 182,
+            "kcal": 95,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 25
+                }, {
+                    "name": "Fibra",
+                    "grams": 4
+                }
+            ],
+            "dailyVal": 8
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Arroz blanco 1kg",
+        "price": 29.90,
+        "brand": "Verde Valle",
+        "desc": "Arroz blanco de grano largo ideal para acompañamientos.",
+        "department": {
+            "category": "comida",
+            "subCategory": "granos"
+        },
+        "expDate": {
+            "$date": "2027-03-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-20"
+        },
+        "kg": 1,
+        "ml": null,
+        "stock": 94,
+        "nutritionalInfo": {
+            "gPerPortion": 45,
+            "kcal": 160,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 35
+                }, {
+                    "name": "Proteína",
+                    "grams": 3
+                }
+            ],
+            "dailyVal": 9
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Refrigerador 11 pies",
+        "price": 7499.99,
+        "brand": "Mabe",
+        "desc": "Refrigerador doméstico con congelador superior y control de temperatura.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "línea blanca"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-10"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 15,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Laptop 14 pulgadas",
+        "price": 12999.90,
+        "brand": "HP",
+        "desc": "Laptop para trabajo y estudio con procesador moderno y almacenamiento SSD.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "cómputo"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-11"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 22,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Televisión 50 pulgadas 4K",
+        "price": 8999.99,
+        "brand": "Hisense",
+        "desc": "Smart TV 4K con aplicaciones de streaming integradas.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "pantallas"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-05"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 19,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Playera deportiva",
+        "price": 249.90,
+        "brand": "Pirma",
+        "desc": "Playera ligera ideal para entrenamiento y uso casual.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "playeras"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-30"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 55,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Pantalón mezclilla",
+        "price": 699.50,
+        "brand": "Levi's",
+        "desc": "Pantalón de mezclilla clásico corte regular para uso diario.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "pantalones"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 41,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Balón de fútbol",
+        "price": 389.00,
+        "brand": "Voit",
+        "desc": "Balón oficial para entrenamiento y partidos recreativos.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "fútbol"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-22"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 27,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Mancuernas 5kg",
+        "price": 420.00,
+        "brand": "Athletic Works",
+        "desc": "Par de mancuernas de hierro recubiertas para entrenamiento.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "pesas"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-18"
+        },
+        "kg": 5,
+        "ml": null,
+        "stock": 18,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Sartén antiadherente",
+        "price": 320.90,
+        "brand": "T-fal",
+        "desc": "Sartén antiadherente ideal para cocinar con menos aceite.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "cocina"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-01"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 36,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Detergente líquido 1L",
+        "price": 74.50,
+        "brand": "Roma",
+        "desc": "Detergente líquido para lavado de ropa con alto poder limpiador.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "limpieza"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-15"
+        },
+        "kg": null,
+        "ml": 1000,
+        "stock": 63,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Perfume floral",
+        "price": 899.00,
+        "brand": "Jafra",
+        "desc": "Fragancia femenina con notas florales frescas y duraderas.",
+        "department": {
+            "category": "perfumería",
+            "subCategory": "fragancias"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-12"
+        },
+        "kg": null,
+        "ml": 50,
+        "stock": 25,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Desodorante aerosol",
+        "price": 72.90,
+        "brand": "Rexona",
+        "desc": "Desodorante en aerosol con protección contra el sudor.",
+        "department": {
+            "category": "perfumería",
+            "subCategory": "cuidado personal"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-05"
+        },
+        "kg": null,
+        "ml": 150,
+        "stock": 70,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Ibuprofeno 400mg",
+        "price": 68.50,
+        "brand": "Genomma Lab",
+        "desc": "Analgésico antiinflamatorio para dolor moderado.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "analgésicos"
+        },
+        "expDate": {
+            "$date": "2027-01-01"
+        },
+        "mdfDate": {
+            "$date": "2025-12-01"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 48,
+        "nutritionalInfo": {
+            "gPerPortion": 1,
+            "kcal": 0,
+            "nutrients": [{
+                    "name": "Ibuprofeno",
+                    "grams": 0.4
+                }
+            ],
+            "dailyVal": 20
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Paracetamol 500mg",
+        "price": 52.00,
+        "brand": "Tempra",
+        "desc": "Medicamento para aliviar fiebre y dolor leve a moderado.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "analgésicos"
+        },
+        "expDate": {
+            "$date": "2027-02-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-05"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 57,
+        "nutritionalInfo": {
+            "gPerPortion": 1,
+            "kcal": 0,
+            "nutrients": [{
+                    "name": "Paracetamol",
+                    "grams": 0.5
+                }
+            ],
+            "dailyVal": 18
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Atún en agua 140g",
+        "price": 21.90,
+        "brand": "Tuny",
+        "desc": "Atún en agua alto en proteína ideal para ensaladas y platillos ligeros.",
+        "department": {
+            "category": "comida",
+            "subCategory": "enlatados"
+        },
+        "expDate": {
+            "$date": "2028-01-10"
+        },
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": 0.14,
+        "ml": null,
+        "stock": 112,
+        "nutritionalInfo": {
+            "gPerPortion": 100,
+            "kcal": 116,
+            "nutrients": [{
+                    "name": "Proteína",
+                    "grams": 26
+                }, {
+                    "name": "Grasa",
+                    "grams": 1
+                }
+            ],
+            "dailyVal": 22
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Pan blanco grande",
+        "price": 45.50,
+        "brand": "Bimbo",
+        "desc": "Pan blanco suave ideal para sándwiches y tostadas.",
+        "department": {
+            "category": "comida",
+            "subCategory": "panadería"
+        },
+        "expDate": {
+            "$date": "2026-03-14"
+        },
+        "mdfDate": {
+            "$date": "2026-03-05"
+        },
+        "kg": 0.68,
+        "ml": null,
+        "stock": 64,
+        "nutritionalInfo": {
+            "gPerPortion": 38,
+            "kcal": 90,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 17
+                }, {
+                    "name": "Proteína",
+                    "grams": 3
+                }
+            ],
+            "dailyVal": 7
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Galletas chocolate",
+        "price": 29.90,
+        "brand": "Gamesa",
+        "desc": "Galletas crujientes con trozos de chocolate.",
+        "department": {
+            "category": "comida",
+            "subCategory": "galletas"
+        },
+        "expDate": {
+            "$date": "2026-08-10"
+        },
+        "mdfDate": {
+            "$date": "2026-02-01"
+        },
+        "kg": 0.15,
+        "ml": null,
+        "stock": 73,
+        "nutritionalInfo": {
+            "gPerPortion": 30,
+            "kcal": 150,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 21
+                }, {
+                    "name": "Grasa",
+                    "grams": 6
+                }
+            ],
+            "dailyVal": 8
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Aceite vegetal 900ml",
+        "price": 48.90,
+        "brand": "Nutrioli",
+        "desc": "Aceite vegetal ideal para cocinar y freír alimentos.",
+        "department": {
+            "category": "comida",
+            "subCategory": "aceites"
+        },
+        "expDate": {
+            "$date": "2027-06-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-15"
+        },
+        "kg": null,
+        "ml": 900,
+        "stock": 58,
+        "nutritionalInfo": {
+            "gPerPortion": 14,
+            "kcal": 120,
+            "nutrients": [{
+                    "name": "Grasa",
+                    "grams": 14
+                }
+            ],
+            "dailyVal": 14
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Cereal de maíz",
+        "price": 62.40,
+        "brand": "Kellogg's",
+        "desc": "Cereal crujiente de maíz fortificado con vitaminas.",
+        "department": {
+            "category": "comida",
+            "subCategory": "cereales"
+        },
+        "expDate": {
+            "$date": "2027-01-20"
+        },
+        "mdfDate": {
+            "$date": "2026-02-02"
+        },
+        "kg": 0.5,
+        "ml": null,
+        "stock": 49,
+        "nutritionalInfo": {
+            "gPerPortion": 30,
+            "kcal": 110,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 24
+                }, {
+                    "name": "Azúcar",
+                    "grams": 3
+                }
+            ],
+            "dailyVal": 9
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Smartphone gama media",
+        "price": 6999.90,
+        "brand": "Samsung",
+        "desc": "Teléfono inteligente con pantalla AMOLED y cámara múltiple.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "telefonía"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 21,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Audífonos inalámbricos",
+        "price": 899.99,
+        "brand": "Sony",
+        "desc": "Audífonos bluetooth con sonido claro y batería de larga duración.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "audio"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-20"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 34,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Teclado inalámbrico",
+        "price": 549.00,
+        "brand": "Logitech",
+        "desc": "Teclado inalámbrico compacto para computadora o laptop.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "cómputo"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-12"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 29,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Sudadera deportiva",
+        "price": 589.90,
+        "brand": "Adidas",
+        "desc": "Sudadera cómoda ideal para clima fresco y actividad deportiva.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "sudaderas"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-25"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 38,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Tenis running",
+        "price": 1499.99,
+        "brand": "Nike",
+        "desc": "Tenis ligeros diseñados para correr y entrenamiento.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "calzado"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-04"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 26,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Raqueta de tenis",
+        "price": 1290.00,
+        "brand": "Wilson",
+        "desc": "Raqueta ligera ideal para jugadores recreativos.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "tenis"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-15"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 14,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Tapete yoga",
+        "price": 340.00,
+        "brand": "Gaiam",
+        "desc": "Tapete antideslizante ideal para yoga y ejercicios.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "fitness"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-28"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 33,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Plancha vapor",
+        "price": 799.90,
+        "brand": "Oster",
+        "desc": "Plancha con función de vapor para eliminar arrugas fácilmente.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "electrodomésticos"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-01"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 19,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Limpiador multiusos 1L",
+        "price": 36.50,
+        "brand": "Fabuloso",
+        "desc": "Limpiador líquido multiusos con aroma duradero.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "limpieza"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": null,
+        "ml": 1000,
+        "stock": 61,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Colonia masculina",
+        "price": 620.00,
+        "brand": "Fraiche",
+        "desc": "Fragancia masculina con notas frescas y amaderadas.",
+        "department": {
+            "category": "perfumería",
+            "subCategory": "fragancias"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-12"
+        },
+        "kg": null,
+        "ml": 100,
+        "stock": 23,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Shampoo hidratante",
+        "price": 82.90,
+        "brand": "Sedal",
+        "desc": "Shampoo hidratante para cabello seco o dañado.",
+        "department": {
+            "category": "perfumería",
+            "subCategory": "cuidado capilar"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-14"
+        },
+        "kg": null,
+        "ml": 650,
+        "stock": 52,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Jarabe para tos 120ml",
+        "price": 95.50,
+        "brand": "Vick",
+        "desc": "Jarabe para aliviar tos y molestias respiratorias.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "jarabes"
+        },
+        "expDate": {
+            "$date": "2027-05-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-20"
+        },
+        "kg": null,
+        "ml": 120,
+        "stock": 37,
+        "nutritionalInfo": {
+            "gPerPortion": 10,
+            "kcal": 20,
+            "nutrients": [{
+                    "name": "Dextrometorfano",
+                    "grams": 0.02
+                }
+            ],
+            "dailyVal": 12
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Tabletas vitamina C",
+        "price": 120.00,
+        "brand": "Redoxon",
+        "desc": "Suplemento efervescente con vitamina C para apoyo inmunológico.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "suplementos"
+        },
+        "expDate": {
+            "$date": "2027-09-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-18"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 42,
+        "nutritionalInfo": {
+            "gPerPortion": 4,
+            "kcal": 15,
+            "nutrients": [{
+                    "name": "Vitamina C",
+                    "grams": 1
+                }
+            ],
+            "dailyVal": 80
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Frijoles negros 900g",
+        "price": 34.90,
+        "brand": "La Sierra",
+        "desc": "Frijoles negros cocidos listos para calentar y servir.",
+        "department": {
+            "category": "comida",
+            "subCategory": "enlatados"
+        },
+        "expDate": {
+            "$date": "2027-12-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": 0.9,
+        "ml": null,
+        "stock": 88,
+        "nutritionalInfo": {
+            "gPerPortion": 130,
+            "kcal": 110,
+            "nutrients": [{
+                    "name": "Proteína",
+                    "grams": 7
+                }, {
+                    "name": "Fibra",
+                    "grams": 6
+                }
+            ],
+            "dailyVal": 14
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Salsa roja picante",
+        "price": 19.50,
+        "brand": "Valentina",
+        "desc": "Salsa mexicana picante ideal para botanas y comida.",
+        "department": {
+            "category": "comida",
+            "subCategory": "salsas"
+        },
+        "expDate": {
+            "$date": "2027-07-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-15"
+        },
+        "kg": null,
+        "ml": 370,
+        "stock": 95,
+        "nutritionalInfo": {
+            "gPerPortion": 15,
+            "kcal": 5,
+            "nutrients": [{
+                    "name": "Sodio",
+                    "grams": 0.19
+                }
+            ],
+            "dailyVal": 4
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Chocolate en polvo",
+        "price": 49.90,
+        "brand": "Choco Milk",
+        "desc": "Chocolate en polvo para preparar bebida con leche.",
+        "department": {
+            "category": "comida",
+            "subCategory": "bebidas"
+        },
+        "expDate": {
+            "$date": "2027-04-10"
+        },
+        "mdfDate": {
+            "$date": "2026-02-01"
+        },
+        "kg": 0.4,
+        "ml": null,
+        "stock": 53,
+        "nutritionalInfo": {
+            "gPerPortion": 20,
+            "kcal": 80,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 16
+                }, {
+                    "name": "Azúcar",
+                    "grams": 14
+                }
+            ],
+            "dailyVal": 9
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Agua mineral 600ml",
+        "price": 14.00,
+        "brand": "Topo Chico",
+        "desc": "Agua mineral con gas refrescante.",
+        "department": {
+            "category": "comida",
+            "subCategory": "bebidas"
+        },
+        "expDate": {
+            "$date": "2027-03-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-15"
+        },
+        "kg": null,
+        "ml": 600,
+        "stock": 140,
+        "nutritionalInfo": {
+            "gPerPortion": 600,
+            "kcal": 0,
+            "nutrients": [{
+                    "name": "Sodio",
+                    "grams": 0.01
+                }
+            ],
+            "dailyVal": 1
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Café soluble 200g",
+        "price": 118.40,
+        "brand": "Nescafé",
+        "desc": "Café soluble clásico de sabor intenso.",
+        "department": {
+            "category": "comida",
+            "subCategory": "bebidas"
+        },
+        "expDate": {
+            "$date": "2027-10-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-30"
+        },
+        "kg": 0.2,
+        "ml": null,
+        "stock": 37,
+        "nutritionalInfo": {
+            "gPerPortion": 2,
+            "kcal": 2,
+            "nutrients": [{
+                    "name": "Cafeína",
+                    "grams": 0.06
+                }
+            ],
+            "dailyVal": 3
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Monitor 24 pulgadas",
+        "price": 3899.99,
+        "brand": "LG",
+        "desc": "Monitor LED de 24 pulgadas ideal para oficina o gaming casual.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "cómputo"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-08"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 17,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Mouse inalámbrico",
+        "price": 349.90,
+        "brand": "Logitech",
+        "desc": "Mouse óptico inalámbrico ergonómico para computadora.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "cómputo"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-12"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 46,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Chaqueta deportiva",
+        "price": 1299.90,
+        "brand": "Puma",
+        "desc": "Chaqueta ligera para entrenamiento o uso casual.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "chaquetas"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-20"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 24,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Gorra deportiva",
+        "price": 279.90,
+        "brand": "New Era",
+        "desc": "Gorra ajustable ideal para uso diario o deporte.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "accesorios"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-25"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 31,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Cuerda para saltar",
+        "price": 180.00,
+        "brand": "Everlast",
+        "desc": "Cuerda ligera para entrenamiento cardiovascular.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "fitness"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-18"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 27,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Bicicleta montaña",
+        "price": 5499.00,
+        "brand": "Benotto",
+        "desc": "Bicicleta de montaña con cambios múltiples para terreno irregular.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "ciclismo"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-02"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 9,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Escoba doméstica",
+        "price": 89.90,
+        "brand": "Vileda",
+        "desc": "Escoba resistente para limpieza de pisos interiores.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "limpieza"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-01"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 58,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Crema corporal 400ml",
+        "price": 96.50,
+        "brand": "Nivea",
+        "desc": "Crema hidratante corporal para piel seca.",
+        "department": {
+            "category": "perfumería",
+            "subCategory": "cuidado personal"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-05"
+        },
+        "kg": null,
+        "ml": 400,
+        "stock": 44,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Alcohol antiséptico 250ml",
+        "price": 28.90,
+        "brand": "Jaloma",
+        "desc": "Alcohol antiséptico para limpieza y desinfección.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "antisépticos"
+        },
+        "expDate": {
+            "$date": "2028-02-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-15"
+        },
+        "kg": null,
+        "ml": 250,
+        "stock": 76,
+        "nutritionalInfo": {
+            "gPerPortion": 10,
+            "kcal": 0,
+            "nutrients": [{
+                    "name": "Alcohol",
+                    "grams": 7
+                }
+            ],
+            "dailyVal": 5
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Gel antibacterial 300ml",
+        "price": 39.90,
+        "brand": "Escudo",
+        "desc": "Gel antibacterial para limpieza de manos sin agua.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "higiene"
+        },
+        "expDate": {
+            "$date": "2027-08-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-28"
+        },
+        "kg": null,
+        "ml": 300,
+        "stock": 69,
+        "nutritionalInfo": {
+            "gPerPortion": 5,
+            "kcal": 0,
+            "nutrients": [{
+                    "name": "Alcohol",
+                    "grams": 3
+                }
+            ],
+            "dailyVal": 6
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Sal de mesa 1kg",
+        "price": 16.50,
+        "brand": "La Fina",
+        "desc": "Sal refinada de mesa ideal para cocinar y sazonar alimentos.",
+        "department": {
+            "category": "comida",
+            "subCategory": "condimentos"
+        },
+        "expDate": {
+            "$date": "2029-01-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": 1,
+        "ml": null,
+        "stock": 134,
+        "nutritionalInfo": {
+            "gPerPortion": 5,
+            "kcal": 0,
+            "nutrients": [{
+                    "name": "Sodio",
+                    "grams": 2
+                }
+            ],
+            "dailyVal": 40
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Azúcar estándar 1kg",
+        "price": 27.90,
+        "brand": "Zulka",
+        "desc": "Azúcar estándar para endulzar bebidas y preparar postres.",
+        "department": {
+            "category": "comida",
+            "subCategory": "endulzantes"
+        },
+        "expDate": {
+            "$date": "2029-06-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-15"
+        },
+        "kg": 1,
+        "ml": null,
+        "stock": 120,
+        "nutritionalInfo": {
+            "gPerPortion": 4,
+            "kcal": 16,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 4
+                }
+            ],
+            "dailyVal": 2
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Harina de trigo 1kg",
+        "price": 24.40,
+        "brand": "Maseca",
+        "desc": "Harina refinada de trigo para repostería y panadería.",
+        "department": {
+            "category": "comida",
+            "subCategory": "harinas"
+        },
+        "expDate": {
+            "$date": "2027-12-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-01"
+        },
+        "kg": 1,
+        "ml": null,
+        "stock": 96,
+        "nutritionalInfo": {
+            "gPerPortion": 30,
+            "kcal": 110,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 23
+                }, {
+                    "name": "Proteína",
+                    "grams": 3
+                }
+            ],
+            "dailyVal": 7
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Refresco cola 600ml",
+        "price": 18.00,
+        "brand": "Coca-Cola",
+        "desc": "Refresco carbonatado sabor cola en botella individual.",
+        "department": {
+            "category": "comida",
+            "subCategory": "bebidas"
+        },
+        "expDate": {
+            "$date": "2026-10-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-15"
+        },
+        "kg": null,
+        "ml": 600,
+        "stock": 150,
+        "nutritionalInfo": {
+            "gPerPortion": 355,
+            "kcal": 140,
+            "nutrients": [{
+                    "name": "Azúcar",
+                    "grams": 39
+                }
+            ],
+            "dailyVal": 18
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Jugo de naranja 1L",
+        "price": 32.90,
+        "brand": "Del Valle",
+        "desc": "Bebida sabor naranja pasteurizada lista para servir.",
+        "department": {
+            "category": "comida",
+            "subCategory": "bebidas"
+        },
+        "expDate": {
+            "$date": "2026-09-01"
+        },
+        "mdfDate": {
+            "$date": "2026-02-10"
+        },
+        "kg": null,
+        "ml": 1000,
+        "stock": 84,
+        "nutritionalInfo": {
+            "gPerPortion": 240,
+            "kcal": 110,
+            "nutrients": [{
+                    "name": "Carbohidratos",
+                    "grams": 26
+                }, {
+                    "name": "Vitamina C",
+                    "grams": 0.06
+                }
+            ],
+            "dailyVal": 12
+        },
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Tablet 10 pulgadas",
+        "price": 4999.99,
+        "brand": "Lenovo",
+        "desc": "Tablet con pantalla de 10 pulgadas ideal para entretenimiento y estudio.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "tablets"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-30"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 13,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Bocina bluetooth",
+        "price": 799.90,
+        "brand": "JBL",
+        "desc": "Bocina portátil con conexión bluetooth y batería recargable.",
+        "department": {
+            "category": "electrónica",
+            "subCategory": "audio"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-05"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 28,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Camisa casual",
+        "price": 549.90,
+        "brand": "Dockers",
+        "desc": "Camisa casual de manga larga ideal para uso diario.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "camisas"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-20"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 35,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Calcetines deportivos",
+        "price": 129.90,
+        "brand": "Adidas",
+        "desc": "Par de calcetines deportivos cómodos y transpirables.",
+        "department": {
+            "category": "ropa",
+            "subCategory": "accesorios"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-18"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 60,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Pelota de basquetbol",
+        "price": 420.00,
+        "brand": "Spalding",
+        "desc": "Pelota resistente para juego recreativo o entrenamiento.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "basquetbol"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-22"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 18,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Guantes gimnasio",
+        "price": 260.00,
+        "brand": "Everlast",
+        "desc": "Guantes acolchados para entrenamiento con pesas.",
+        "department": {
+            "category": "deportes",
+            "subCategory": "fitness"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-25"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 22,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Cubeta plástica",
+        "price": 75.00,
+        "brand": "Rubbermaid",
+        "desc": "Cubeta resistente para limpieza doméstica.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "limpieza"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-01-30"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 40,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Aromatizante ambiental 250ml",
+        "price": 68.50,
+        "brand": "Glade",
+        "desc": "Aromatizante líquido para mantener espacios con aroma fresco.",
+        "department": {
+            "category": "hogar",
+            "subCategory": "ambientadores"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-03"
+        },
+        "kg": null,
+        "ml": 250,
+        "stock": 47,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Loción corporal",
+        "price": 115.90,
+        "brand": "Jergens",
+        "desc": "Loción hidratante para suavizar y proteger la piel.",
+        "department": {
+            "category": "perfumería",
+            "subCategory": "cuidado personal"
+        },
+        "expDate": null,
+        "mdfDate": {
+            "$date": "2026-02-05"
+        },
+        "kg": null,
+        "ml": 400,
+        "stock": 36,
+        "nutritionalInfo": null,
+        "img": null,
+        "barCode": null
+    }, {
+        "name": "Pastillas antiácido",
+        "price": 79.90,
+        "brand": "Sal de Uvas Picot",
+        "desc": "Tabletas efervescentes para aliviar acidez estomacal.",
+        "department": {
+            "category": "farmacia",
+            "subCategory": "digestivo"
+        },
+        "expDate": {
+            "$date": "2027-11-01"
+        },
+        "mdfDate": {
+            "$date": "2026-01-20"
+        },
+        "kg": null,
+        "ml": null,
+        "stock": 54,
+        "nutritionalInfo": {
+            "gPerPortion": 5,
+            "kcal": 5,
+            "nutrients": [{
+                    "name": "Bicarbonato",
+                    "grams": 2
+                }
+            ],
+            "dailyVal": 15
+        },
+        "img": null,
+        "barCode": null
+    }
+]

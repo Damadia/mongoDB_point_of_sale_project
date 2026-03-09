@@ -1,0 +1,45 @@
+{
+	folio: Number,
+	dateEmission: Date,
+	
+	paymentMethod: String
+	
+	sender: {
+		name: String,
+		RFC: String,
+		address:{
+			street: String (this is also the avenue),
+			colony: String,
+			number: Number || null
+		}
+		taxRegime: String
+	}
+	
+	products: [
+		{
+			uniquePrice: Number
+			IVA: Number (uniquePrice * .16)
+			
+		
+			amount: Number || null
+			kg: Number || null
+			
+			discountAmount: Number
+			total: Number ((uniquePrice - discountAmount)*amount || (uniquePrice - discountAmount)*(kg*productKg/price) )
+		}
+	]
+	
+	subTotal: Number
+	
+	taxes: {
+		IVA: Number
+		IEPS: Number || null
+		Total: Number (IVA + IEPS)
+	}
+	
+	totalBill: Number 
+	
+	
+	
+
+}
