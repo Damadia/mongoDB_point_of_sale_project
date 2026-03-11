@@ -1,8 +1,6 @@
 const { Double } = require("bson");
 const mongoose = require("mongoose");
-const schema = mongoose.Schema;
-
-const mongoose = require("mongoose");
+const Schema = mongoose.Schema;
 
 const nutrientSchema = new Schema({
     grams: {
@@ -93,7 +91,7 @@ const productSchema = new Schema({
     }
 
 }, {
-    collection: "products"
+    collection: "productos"
 });
 
 const product = mongoose.model("productos", productSchema);

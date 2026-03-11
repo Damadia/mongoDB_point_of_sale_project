@@ -1,16 +1,9 @@
 {
-	number: Number
-	type: String
-	department: String
-	
-	currentPhysicalCash: Number
-	
-	employees: [String]
-	
-	
-	ip: array[0-255,0-255,0-255,0-255]
-	connectionLocalDB: Bool
-	
-
-
+    number: Number,
+    type: String,
+    department: String,
+    currentPhysicalCash: Number,
+    employees: [String],
+    connectionLocalDB: Bool,
+    ip: array[0 - 255, 0 - 255, 0 - 255, 0 - 255]
 }

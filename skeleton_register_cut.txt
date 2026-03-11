@@ -1,38 +1,25 @@
 {
-	registerNumber: Number
-	dateBegin: Date
-	dateCut: Date
-	responsible: String || null
-	
-	
-	beginningBalance: Number
-	outflows: Number
-	
-	
-	closingBalance: Number
-	
-	cutSummary:{
-		cashNum: Number
-		cashAmount: Number
-		
-		digitalNum: Number
-		digitalAmount: Number
-		
-		taxes: Number
-		
-		phisycalCut: Number (begnningBalance + cashAmount - (outflows + cashAmount*.16))
-		totalCut: number (es el beginningBalance + (cashAmount + digitalAmount) - outflows - taxes)
-	}
-	
-	cutStock: {
-		total: Number,
-		products: [
-			{
-				idProduct: Number,
-				name: String,
-				amount: Number
-			}
-		]
-	}
-
+    registerNumber: Number,
+    dateBegin: Date,
+    dateCut: Date,
+    responsible: String || null,
+    beginningBalance: Number,
+    cutSummary: {
+        cashNum: Number,
+        cashAmount: Number,
+        digitalNum: Number,
+        digitalAmount: Number,
+        outflows: Number,
+        taxes: Number,
+        phisycalCut: Number(begnningBalance + cashAmount - (outflows + cashAmount * .16)),
+        totalCut: number(es el beginningBalance + (cashAmount + digitalAmount) - outflows - taxes),
+    },
+    cutStock: {
+        total: Number,
+        products: [{
+                name: String,
+                amount: Number
+            }
+        ]
+    }
 }

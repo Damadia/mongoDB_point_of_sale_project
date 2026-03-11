@@ -1,6 +1,7 @@
 const Product = require('../schema/productSchema.js');
 
 const connectDB = require('../config/database_init.js');
+const product = require('../schema/productSchema.js');
 const COLLECTION = "productos";
 
 class ProductController {
@@ -42,35 +43,10 @@ class ProductController {
         }
     };
 
-    async addFile(req, res) {
-        var db = connectDB.connection();
-
-        var collection = db.collection("productos");
-
-        var query = {
-            $set: { "Foto": 123 }
-        }
-        try {
-            collection.updateMany({ name: req.nameProduct }, query);
-
-            res.send.status(201).json({
-                msg: "Foto establecida con exito en el producto ${req.nameProduct}"
-            });
-        }
-        catch {
-            res.send.status(500).json({
-                msg: "Error with uploading the file in mongo db"
-            });
-        }
-
-    }
-
-
     async insertFile(req, res) {
         var imgFile = (req.files != null && req.files.length > 0) ? req.files[0] : null; //img
-        var codeBarFile = (req.files != null && req.files.length > 1) ? req.file[1] : null; //codebar
-        var nameProduct = req.params.name;
-        
+        var codeBarFile = (req.files != null && req.files.length > 1) ? req.files[1] : null; //codebar
+        var nameProduct = req.body.name;
         //Esto no es necesario, trabajo sobre el modelo de datos, no la instancia
         /*
         var product = new Product({
@@ -78,17 +54,24 @@ class ProductController {
             "codeBar": codeBarFile
         })*/
         try {
+            const conection = await connectDB;
+
+            const exist = await product.findOne({ name: nameProduct });
+            if (!exist) {
+                return res.status(404).json({
+                    err: "Producto no hallado"
+                })
+            }
             const filter = { name: nameProduct };
             const update = {
-                $set: {
-                    img: imgFile?.buffer,
-                    codeBar: codeBarFile?.buffer
-                }
-            }
+                $set: {}
+            };
 
+            if (imgFile) update.$set.img = imgFile.buffer;
+            if (codeBarFile) update.$set.barCode = codeBarFile.buffer;
             const result = await Product.findOneAndUpdate(filter, update, { new: true });
 
-            const fileReferences = req.files.map(file => ({
+            const fileReferences = req.files?.map(file => ({
                 originalname: file.originalname,
                 filename: nameProduct,
             }));
@@ -105,8 +88,94 @@ class ProductController {
                 msg: err.message
             });
         }
+    }
+
+    async price300600(req, res) {
+        try {
+            const products = await Product.find({
+                price: {
+                    $gte: 300,
+                    $lte: 600
+                },
+                "department.category": "ropa"
+            });
+            if (!products) {
+                return res.status(404).json({
+                    msg: "Ningún producto coincidió con la busqueda"
+                })
+            }
+            return res.status(200).json({
+                msg: "Estos fueron los productos hallados",
+                query: products
+            });
+
+        }
+        catch (err) {
+            return res.status(500).json({
+                err: err.message
+            });
+        }
 
     }
+
+    async withExp(req, res) {
+        try {
+            const products = await Product.find({
+                expDate: {
+                    $ne: null,
+                    $gt: new Date("2026-03-20")
+                },
+            },
+                { _id: 0, name: 1, stock: 1, nutritionalInfo: 1, expDate: 1 }
+            );
+            if (!products) {
+                return res.status(404).json({
+                    msg: "Ningún producto coincidió con la busqueda"
+                })
+            }
+            return res.status(200).json({
+                msg: "Estos fueron los productos hallados",
+                query: products
+            });
+
+        }
+        catch (err) {
+            return res.status(500).json({
+                err: err.message
+            });
+        }
+    }
+
+    async lowStock(req, res) {
+        try {
+            const products = await Product.find({
+                stock: {
+                    $gt: 0,
+                    $lt: 5
+                },
+                price: {
+                    $gt: 3000
+                }
+            },
+                {_id:0, name:1, stock:1, price:1});
+            if (!products) {
+                return res.status(404).json({
+                    msg: "Ningún producto coincidió con la busqueda"
+                })
+            }
+            return res.status(200).json({
+                msg: "Estos fueron los productos hallados",
+                query: products
+            });
+
+        }
+        catch (err) {
+            return res.status(500).json({
+                err: err.message
+            });
+        }
+    }
+
 }
 
 module.exports = new ProductController()
